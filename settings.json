@@ -54,7 +54,7 @@
     "settingsSync.ignoredExtensions": [
         "joelcrosby.one-dark-darker"
     ],
-    "window.zoomLevel": -1,
+    "window.zoomLevel": -0.5,
     "workbench.colorTheme": "One Dark Darker",
     "editor.inlineSuggest.enabled": true,
 }

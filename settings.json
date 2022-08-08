@@ -9,6 +9,7 @@
     "terminal.integrated.fontWeight": "200",
     "terminal.integrated.fontFamily": "Monaco",
     "editor.multiCursorModifier": "ctrlCmd",
+    "editor.mouseWheelZoom": false,
     "workbench.tips.enabled": false,
     "explorer.confirmDelete": false,
     "editor.overviewRulerBorder": false,
@@ -55,6 +56,7 @@
         "joelcrosby.one-dark-darker"
     ],
     "window.zoomLevel": -0.5,
-    "workbench.colorTheme": "One Dark Darker",
     "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "One Dark Darker",
+    "liveServer.settings.donotShowInfoMsg": true,
 }
